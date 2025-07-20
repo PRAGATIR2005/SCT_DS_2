@@ -1,5 +1,6 @@
 # SCT_DS_2
 Titanic Dataset - Data Cleaning & Exploratory Data Analysis (EDA)
+
 Objective:-
 In this project, the goal is to perform *Data Cleaning* and *Exploratory Data Analysis (EDA)* on a dataset of your choice, specifically the *Titanic dataset* from Kaggle. The purpose is to uncover relationships between different variables in the dataset and identify any trends or patterns that could provide valuable insights.
 
